@@ -11,5 +11,10 @@ public class StudentDetails {
 				System.out.println(studentName);
 
 			}
+			private void stuAddress() {
+				String  stuAddress = "kerala";
+				System.out.println(stuAddress);
+
+			}
 
 }
