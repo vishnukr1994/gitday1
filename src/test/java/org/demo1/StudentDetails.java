@@ -26,5 +26,12 @@ public class StudentDetails {
 				System.out.println(stuAddress);
 
 			}
+
+			private void mainkanadan() {
+				System.out.println("mani");
+
+			}
+
 			
+
 }
