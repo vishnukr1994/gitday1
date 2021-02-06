@@ -176,8 +176,11 @@ public void keyDown() throws AWTException {
 	r.keyPress(KeyEvent.VK_DOWN);
 	r.keyRelease(KeyEvent.VK_DOWN);
 }
-//r.keyRelease(keycode);
-//}
+  private void keyUp() throws AWTException {
+	Robot r= new Robot();
+	r.keyPress(KeyEvent.VK_UP);
+	r.keyRelease(KeyEvent.VK_UP);
+}
 
 	public void findelement(String path) {
 		WebElement findElement = driver.findElement(By.xpath(path));

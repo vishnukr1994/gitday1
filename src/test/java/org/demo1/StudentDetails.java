@@ -11,5 +11,12 @@ public class StudentDetails {
 				System.out.println(studentName);
 
 			}
+			private void studentAddress() {
+				
 
+			}
+			private void student() {
+				// TODO Auto-generated method stub
+
+			}
 }
