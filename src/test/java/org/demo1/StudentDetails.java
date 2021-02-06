@@ -19,4 +19,8 @@ public class StudentDetails {
 				// TODO Auto-generated method stub
 
 			}
+			private void mainkanadan() {
+				System.out.println("mani");
+
+			}
 }
