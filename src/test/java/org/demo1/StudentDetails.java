@@ -13,10 +13,18 @@ public class StudentDetails {
 			}
 			private void studentAddress() {
 				
+			 
+
+							}
+							private void student() {
+							
+
+							}
+
+			private void stuAddress() {
+				String  stuAddress = "kerala";
+				System.out.println(stuAddress);
 
 			}
-			private void student() {
-				// TODO Auto-generated method stub
-
-			}
+			
 }
